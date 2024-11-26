@@ -1,0 +1,11 @@
+# Changes here will be overwritten by Copier
+_commit: 1.0.4
+_src_path: https://github.com/koosie0507/cs-ubb-eduml-app.git
+author_email: adrian.stan@stud.ubbcluj.ro
+author_name: Adrian Stan
+experiment_name: almoststable-train-experiment
+github_namespace: LauraDiosan-CS
+github_repo: almoststable-train
+package_name: almoststable_train
+project_name: almoststable train
+project_slug: almoststable-train
